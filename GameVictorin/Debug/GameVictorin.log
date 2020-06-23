@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\Anatoliy\source\repos\GameVictorin\GameVictorin\Qestion.h(84,13): warning C4018: '<': signed/unsigned mismatch
+  Qestion.cpp
+C:\Users\Anatoliy\source\repos\GameVictorin\GameVictorin\Qestion.h(84,13): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Anatoliy\source\repos\GameVictorin\GameVictorin\Qestion.h(84,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Anatoliy\source\repos\GameVictorin\GameVictorin\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  GameVictorin.vcxproj -> C:\Users\Anatoliy\source\repos\GameVictorin\Debug\GameVictorin.exe
